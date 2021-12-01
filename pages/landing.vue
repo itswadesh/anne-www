@@ -146,54 +146,54 @@ Unlock engagement, awareness with tech-enabled Live Shopping E-commerce brands.`
       ],
       items2: [
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-01-of-how-it-works.png',
           name: 'Grow your business with your own live shopping solution',
           description:
             'With Anne.biz you engage with customers virtually and send your products directly through video and chat.',
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-02-of-how-it-works.png',
           name: 'Find out how we can help you reach more customers in just 5 minutes: Flourish & thrive through live sales experience ',
           description:
             'Once you have signed up for your account you will be able to publish live or recorded product showcases to your personal landing page or website.',
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-03-of-how-it-works.png',
           name: 'Maximize reach for your live sales event',
           description:
             'Your live videos can also appear simultaniously on social media channels, For example Facebook, You Tube, Instagram and more. This will help you to grow your outreach and customer base each time you publish content.',
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-04-of-how-it-works.png',
           name: 'Easily create engaging experience.',
           description:
             'Vendors and customers can now watch your videos and most certainly purchase products, ask questions and much more.',
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-05-of-how-it-works.png',
           name: 'Get more customers',
           description:
             'Every time when viewers interact with your content, they will register, growing your customer base over time.',
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-06-of-how-it-works.png',
           name: 'No additional equipment needed',
           description: `You don't need any equipment other than your mobile phone, or a computer with a webcam. If you aspire to create your own live shopping TV station Anne.biz can facilitate with professional studio equipment, crew and/or host(ess).`,
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-06-of-how-it-works.png',
           name: 'E-commerce platform included',
           description: `Use our build in checkout flow and start receiving orders, or integrate your existing website.`,
         },
         {
-          link: '/live',
+          link: '#',
           img: '/live-commerce/image-06-of-how-it-works.png',
           name: 'Start increasing E-commerce conversion rate',
           description: `Try with a free DEMO and take your live sales events to the next level.`,
