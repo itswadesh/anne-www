@@ -22,7 +22,7 @@
           max-w-max
           height
           overflow-y-auto
-          text-gray-700
+          text-gray-800
           overflow-hidden
           inline-block
           transition-all

@@ -81,7 +81,7 @@
                 "
                 >Edit</nuxt-link
               >
-              <!-- <span class="p-1 text-xs text-gray-700 bg-gray-200">HOME</span> -->
+              <!-- <span class="p-1 text-xs text-gray-800 bg-gray-200">HOME</span> -->
               <!-- <nuxt-link :to="localePath(`address/add?id=${a._id}`)" class="absolute right-0 px-5 text-end" >
           <span class="w-1 h-1 m-1 bg-gray-500 rounded-full"></span>
           <span class="w-1 h-1 m-1 bg-gray-500 rounded-full"></span>

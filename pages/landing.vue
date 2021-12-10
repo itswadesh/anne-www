@@ -116,7 +116,7 @@ export default {
         },
         {
           id: 'stored-videos-section',
-          link: 'https://live.anne.biz/',
+          link: 'https://live.anne.biz/videos',
           title: 'Stored Videos',
           img: '/img/home/stored-videos.jpg',
           name: `“Anne travels the globe in search of the world’s most amazing
@@ -126,7 +126,7 @@ products. Products that are innovative, unique, effective and produced with resp
         },
         {
           id: 'prime-streaming-section',
-          link: '/',
+          link: '#',
           title: 'Prime Streaming',
           img: '/img/home/prime-streaming.jpg',
           name: `ENJOY UNPARALLEL LIVE SHOPPING EXPERIENCE!

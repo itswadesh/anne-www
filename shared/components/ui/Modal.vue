@@ -56,7 +56,7 @@
         To: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
     -->
 
-          <div class="p-5 sm:p-10 w-full text-gray-700">
+          <div class="p-5 sm:p-10 w-full text-gray-800">
             <div class="flex flex-wrap items-center justify-center sm:mb-2">
               <svg
                 class="`h-6 w-6 mb-3 me-2"

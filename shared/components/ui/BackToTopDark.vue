@@ -60,7 +60,7 @@ export default {
   methods: {
     scrollToTop() {
       if (process.client) {
-        window.scroll({ behavior: 'smooth', left: 0, top: 100 })
+        window.scroll({ behavior: 'smooth', left: 0, top: 0 })
       }
     },
   },

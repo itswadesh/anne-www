@@ -20,7 +20,7 @@
     @keydown.space="updateActivePlan"
   >
     <div class="flex items-center justify-between">
-      <h1 class="my-2 text-sm text-gray-700">{{ name }}</h1>
+      <h1 class="my-2 text-sm text-gray-800">{{ name }}</h1>
       <div v-if="activePlan === value">
         <svg
           class="w-5 h-5 fill-current zoom"

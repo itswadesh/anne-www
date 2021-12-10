@@ -41,7 +41,7 @@
             <MapPinIcon size="1x" />
             {{ p.vendor.info.restaurant }}
           </div>-->
-          <div class="text-xl font-black text-gray-700">
+          <div class="text-xl font-black text-gray-800">
             {{
               p.price | currency(store.currencySymbol, store.currencyDecimals)
             }}

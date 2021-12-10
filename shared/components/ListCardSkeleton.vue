@@ -31,7 +31,7 @@
           <div class="flex items-center text-sm tracking-widest text-gray-500">
             <div class="w-48 bg-gray-100 rounded">&nbsp;</div>
           </div>
-          <div class="text-xl font-black text-gray-700">
+          <div class="text-xl font-black text-gray-800">
             {{ 0 | currency(store.currencySymbol, store.currencyDecimals) }}
           </div>
         </div>

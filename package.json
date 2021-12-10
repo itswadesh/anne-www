@@ -20,7 +20,9 @@
     "anne-copy-config": "node devops/anne/copy-config",
     "anne-copy": "node devops/anne/copy",
     "anne-deploy": "node devops/anne/deploy",
-    "anne": "run-s anne-copy-config build anne-copy anne-deploy"
+    "anne": "run-s anne-copy-config build anne-copy anne-deploy",
+    "anne-deploy-next": "node devops/anne/next",
+    "next-anne": "run-s anne-copy-config build anne-copy anne-deploy-next"
   },
   "lint-staged": {
     "*.{js,vue}": [
